@@ -1,0 +1,2 @@
+Problem: Build a to-do app with the ability to:1)Add, delete, and mark items as completed.
+2)Use useState and useEffect for state management and side effects.
